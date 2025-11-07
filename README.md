@@ -69,3 +69,7 @@ Use real-world datasets (e.g., student exams, Kaggle data)
 Apply advanced models (Random Forest, XGBoost)
 
 Build an interactive dashboard (e.g., Streamlit or Power BI)
+
+# OUTPUT 
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0891a9a3-4768-4f57-bd7e-d9b9fcce6bc5" />
